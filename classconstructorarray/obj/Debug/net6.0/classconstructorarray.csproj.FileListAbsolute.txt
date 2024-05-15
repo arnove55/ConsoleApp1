@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\ConsoleApp1\classconstructorarray\bin\Debug\net6.0\classconstructorarray.exe
+C:\Users\DELL\source\repos\ConsoleApp1\classconstructorarray\bin\Debug\net6.0\classconstructorarray.deps.json
+C:\Users\DELL\source\repos\ConsoleApp1\classconstructorarray\bin\Debug\net6.0\classconstructorarray.runtimeconfig.json
+C:\Users\DELL\source\repos\ConsoleApp1\classconstructorarray\bin\Debug\net6.0\classconstructorarray.dll
+C:\Users\DELL\source\repos\ConsoleApp1\classconstructorarray\bin\Debug\net6.0\classconstructorarray.pdb
+C:\Users\DELL\source\repos\ConsoleApp1\classconstructorarray\obj\Debug\net6.0\classconstructorarray.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\ConsoleApp1\classconstructorarray\obj\Debug\net6.0\classconstructorarray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\ConsoleApp1\classconstructorarray\obj\Debug\net6.0\classconstructorarray.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\ConsoleApp1\classconstructorarray\obj\Debug\net6.0\classconstructorarray.AssemblyInfo.cs
+C:\Users\DELL\source\repos\ConsoleApp1\classconstructorarray\obj\Debug\net6.0\classconstructorarray.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\ConsoleApp1\classconstructorarray\obj\Debug\net6.0\classconstructorarray.dll
+C:\Users\DELL\source\repos\ConsoleApp1\classconstructorarray\obj\Debug\net6.0\refint\classconstructorarray.dll
+C:\Users\DELL\source\repos\ConsoleApp1\classconstructorarray\obj\Debug\net6.0\classconstructorarray.pdb
+C:\Users\DELL\source\repos\ConsoleApp1\classconstructorarray\obj\Debug\net6.0\classconstructorarray.genruntimeconfig.cache
+C:\Users\DELL\source\repos\ConsoleApp1\classconstructorarray\obj\Debug\net6.0\ref\classconstructorarray.dll

@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\ConsoleApp1\typeconvertionandcasting\bin\Debug\net6.0\typeconvertionandcasting.exe
+C:\Users\DELL\source\repos\ConsoleApp1\typeconvertionandcasting\bin\Debug\net6.0\typeconvertionandcasting.deps.json
+C:\Users\DELL\source\repos\ConsoleApp1\typeconvertionandcasting\bin\Debug\net6.0\typeconvertionandcasting.runtimeconfig.json
+C:\Users\DELL\source\repos\ConsoleApp1\typeconvertionandcasting\bin\Debug\net6.0\typeconvertionandcasting.dll
+C:\Users\DELL\source\repos\ConsoleApp1\typeconvertionandcasting\bin\Debug\net6.0\typeconvertionandcasting.pdb
+C:\Users\DELL\source\repos\ConsoleApp1\typeconvertionandcasting\obj\Debug\net6.0\typeconvertionandcasting.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\ConsoleApp1\typeconvertionandcasting\obj\Debug\net6.0\typeconvertionandcasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\ConsoleApp1\typeconvertionandcasting\obj\Debug\net6.0\typeconvertionandcasting.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\ConsoleApp1\typeconvertionandcasting\obj\Debug\net6.0\typeconvertionandcasting.AssemblyInfo.cs
+C:\Users\DELL\source\repos\ConsoleApp1\typeconvertionandcasting\obj\Debug\net6.0\typeconvertionandcasting.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\ConsoleApp1\typeconvertionandcasting\obj\Debug\net6.0\typeconvertionandcasting.dll
+C:\Users\DELL\source\repos\ConsoleApp1\typeconvertionandcasting\obj\Debug\net6.0\refint\typeconvertionandcasting.dll
+C:\Users\DELL\source\repos\ConsoleApp1\typeconvertionandcasting\obj\Debug\net6.0\typeconvertionandcasting.pdb
+C:\Users\DELL\source\repos\ConsoleApp1\typeconvertionandcasting\obj\Debug\net6.0\typeconvertionandcasting.genruntimeconfig.cache
+C:\Users\DELL\source\repos\ConsoleApp1\typeconvertionandcasting\obj\Debug\net6.0\ref\typeconvertionandcasting.dll
